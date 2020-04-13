@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T10:32:52.373Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="9aWGYRNkuIH43tsqSCrb" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-14T10:34:20.671Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="6uTITYGSw4XqSeHhDhYx" version="12.9.10" type="github">
   <diagram id="JFNM57mEmAa9QljRRSLL" name="Page-1">
     <mxGraphModel dx="865" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-70" value="Add new Team" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="n-cAqFgHFJ2aPJ7e6cO5-40" target="n-cAqFgHFJ2aPJ7e6cO5-41">
+        <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-70" value="Add new Team" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.267;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="n-cAqFgHFJ2aPJ7e6cO5-65" target="n-cAqFgHFJ2aPJ7e6cO5-41">
           <mxGeometry x="0.0638" y="5" width="80" relative="1" as="geometry">
             <mxPoint x="380" y="200" as="sourcePoint" />
             <mxPoint x="460" y="200" as="targetPoint" />
@@ -18,31 +18,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-37" value=":Registration&lt;br&gt;&amp;lt;&amp;lt;UI&amp;gt;&amp;gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="10" width="100" height="590" as="geometry" />
+          <mxGeometry x="100" y="10" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="n-cAqFgHFJ2aPJ7e6cO5-37">
           <mxGeometry x="45" y="70" width="10" height="310" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-38" value=":StudentDB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="10" width="100" height="590" as="geometry" />
+          <mxGeometry x="250" y="10" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-39" value=":Teacher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="10" width="100" height="590" as="geometry" />
+          <mxGeometry x="400" y="10" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-40" value=":TBI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="10" width="100" height="590" as="geometry" />
+          <mxGeometry x="550" y="10" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-41" value=":TeamDB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="10" width="100" height="590" as="geometry" />
+          <mxGeometry x="720" y="10" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="n-cAqFgHFJ2aPJ7e6cO5-41">
           <mxGeometry x="45" y="155" width="10" height="95" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="n-cAqFgHFJ2aPJ7e6cO5-41">
-          <mxGeometry x="45" y="285" width="10" height="95" as="geometry" />
+          <mxGeometry x="45" y="270" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-45" value="Student" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="20" height="590" as="geometry" />
+          <mxGeometry x="30" y="10" width="20" height="470" as="geometry" />
         </mxCell>
         <mxCell id="n-cAqFgHFJ2aPJ7e6cO5-50" value="createa a team" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
